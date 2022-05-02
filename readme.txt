@@ -17,3 +17,8 @@
     nohup bin/redis-server /root/cluster/8003/redis.conf &
 4、ps -ef|grep redis，查看redis是否开启成功.
 
+
+
+
+redis commands reference(redis 命令参考文档): redis.io/commands
+
