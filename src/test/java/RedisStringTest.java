@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class RedisTest {
+public class RedisStringTest {
 
     @Test
     public void test01() {
