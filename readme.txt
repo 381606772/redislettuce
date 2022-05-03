@@ -22,3 +22,7 @@
 
 redis commands reference(redis 命令参考文档): redis.io/commands
 
+
+
+7001 我关闭集群启动  cluster-enable 由yes改成了no
+
